@@ -52,6 +52,18 @@
     });
 
 
+    // Gallery carousel
+    $(".gallery-carousel").owlCarousel({
+        autoplay: true,
+        smartSpeed: 1000,
+        loop: true,
+        nav: false,
+        dots: false,
+        items: 1,
+        margin: 10,
+    });
+
+
     // Smooth scrolling for anchor links
     $('a[href^="#"]').on('click', function (e) {
         var target = $(this.hash);
