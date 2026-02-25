@@ -50,6 +50,35 @@
         items: 1,
         dotsData: true,
     });
+
+
+    // Smooth scrolling for anchor links
+    $('a[href^="#"]').on('click', function (e) {
+        var target = $(this.hash);
+        if (target.length) {
+            e.preventDefault();
+            $('html, body').animate({
+                scrollTop: target.offset().top - 80
+            }, 1000, 'easeInOutExpo');
+            
+            // Update active menu item
+            $('.navbar-nav .nav-link').removeClass('active');
+            $(this).addClass('active');
+        }
+    });
+
+    // Update active menu on scroll
+    $(window).on('scroll', function () {
+        var scrollPos = $(document).scrollTop() + 100;
+        $('.navbar-nav .nav-link').each(function () {
+            var currLink = $(this);
+            var refElement = $(currLink.attr("href"));
+            if (refElement.length && refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+                $('.navbar-nav .nav-link').removeClass("active");
+                currLink.addClass("active");
+            }
+        });
+    });
     
 })(jQuery);
 
