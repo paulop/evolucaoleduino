@@ -1,0 +1,96 @@
+# robots.txt — evolucaoleduino.com.br
+# Gerado em 2026-08-15
+
+# Regra geral: motores de busca podem indexar todo o site
+User-agent: *
+Allow: /
+
+# ------------------------------------------------------------
+# Bots de Inteligência Artificial
+# Política: PERMITIR (indexação, respostas e treinamento)
+# ------------------------------------------------------------
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Google IA (treinamento de modelos, separado do Googlebot de busca)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Meta / Llama
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Common Crawl (usado para treinar vários modelos de IA)
+User-agent: CCBot
+Allow: /
+
+# Amazon
+User-agent: Amazonbot
+Allow: /
+
+# Apple
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ByteDance
+User-agent: Bytespider
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Microsoft Bing / Copilot
+User-agent: Bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# ------------------------------------------------------------
+# Mapa do site
+# ------------------------------------------------------------
+Sitemap: https://evolucaoleduino.com.br/sitemap.xml

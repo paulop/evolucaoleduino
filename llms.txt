@@ -1,0 +1,35 @@
+# Evolução — Urbanização e Construção Civil
+
+> Empresa especializada em obras de urbanização e construção civil, oferecendo soluções completas para projetos públicos e privados em Dourados/MS, Brasil.
+
+A Evolução atua na região de Mato Grosso do Sul com equipe qualificada e equipamentos modernos, atendendo tanto pessoas físicas quanto órgãos públicos e empresas que necessitam de infraestrutura urbana, construção civil e terraplanagem.
+
+## Serviços
+
+- [Obras de Urbanização](https://evolucaoleduino.com.br/#servicos): projetos completos de urbanização para áreas públicas e privadas.
+- [Construção de Edifícios](https://evolucaoleduino.com.br/#servicos): execução de obras civis e prediais.
+- [Redes de Água e Esgoto](https://evolucaoleduino.com.br/#servicos): implantação de redes de abastecimento e coleta.
+- [Terraplanagem](https://evolucaoleduino.com.br/#servicos): preparação e nivelamento de terrenos.
+- [Drenagem Pluvial](https://evolucaoleduino.com.br/#servicos): sistemas de escoamento de águas pluviais.
+- [Obras de Saneamento](https://evolucaoleduino.com.br/#servicos): infraestrutura de saneamento básico.
+- [Transporte de Carga](https://evolucaoleduino.com.br/#servicos): logística de materiais e equipamentos.
+- [Locação de Equipamentos](https://evolucaoleduino.com.br/#servicos): aluguel de máquinas para obras.
+
+## Empresa
+
+- [Sobre](https://evolucaoleduino.com.br/#sobre): apresentação institucional da empresa.
+- [Clientes](https://evolucaoleduino.com.br/#clientes): depoimentos de clientes atendidos.
+- [Orçamento](https://evolucaoleduino.com.br/#orcamento): formulário para solicitação de orçamento.
+- [Contato](https://evolucaoleduino.com.br/#contato): canais de contato e localização.
+
+## Contato
+
+- Telefone/WhatsApp: (67) 99962-7316
+- E-mail: contato@evolucaoleduino.com.br
+- Endereço: Rua Antonio da Silva Souza, 685 — Dourados/MS, CEP 79816-035
+- CNPJ: 31.535.574/0001-98
+- Horário de atendimento: segunda a sexta, das 07:00 às 17:00
+
+## Observações
+
+Este arquivo segue o formato llms.txt (https://llmstxt.org), criado para ajudar assistentes de IA a entender rapidamente o conteúdo e o propósito do site evolucaoleduino.com.br. Este é um site institucional de página única (single-page), com as seções acima acessíveis por âncoras na mesma URL.
